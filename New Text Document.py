@@ -9,7 +9,7 @@ for s in string:
 		else
 			c=c+1
 	else:
-		print("wrong strin g man")
+		print("wrong string man")
 		break
 
 print("vowels: ",v,"consonenes",c)
